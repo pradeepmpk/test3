@@ -11,5 +11,3 @@ Palindrome.o:Palindrome.c
 	gcc -c Palindrome.c
 }
 }
-}
-}
