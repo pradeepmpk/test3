@@ -9,5 +9,3 @@ fact.0:fact.c
 	gcc -c fact.c
 Palindrome.o:Palindrome.c
 	gcc -c palindrome.c
-}
-
