@@ -10,4 +10,5 @@ fact.0:fact.c
 Palindrome.o:Palindrome.c
 	gcc -c Palindrome.c
 }
+}
 
