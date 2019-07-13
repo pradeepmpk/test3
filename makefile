@@ -12,3 +12,4 @@ Palindrome.o:Palindrome.c
 }
 }
 }
+}
